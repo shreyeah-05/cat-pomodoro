@@ -28,6 +28,20 @@ Two embedded photos react to the current phase:
 - **Long break:** the studying photo dimmed and tilted, with "zZz".
 - **Alarm:** the frame jumps.
 
+## Backgrounds
+
+The Backgrounds button (top right) opens a picker with seven photos:
+
+-Reading room
+-Lake & trees (the default)
+-Bookshelves
+-Teal lamp
+-Study desk
+-Night street
+-Misty hills
+
+There is also an Upload your own tile. Uploaded photos are resized and kept in your browser only. Your choice is remembered on that device.  
+
 ## Stats
 
 Open **Stats** (top right) to see:
