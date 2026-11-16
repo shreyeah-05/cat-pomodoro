@@ -73,7 +73,7 @@ All of this is in `index.html`.
 
 ## Hosting it yourself
 
-Upload `pomodoro.html` to any static host (GitHub Pages, Netlify, Vercel) or open it directly in a browser. Outside claude.ai:
+Upload `index.html` to any static host (GitHub Pages, Netlify, Vercel) or open it directly in a browser. Outside claude.ai:
 
 - Stats are saved on that device only (`localStorage`).
 - The account sync is skipped automatically.
