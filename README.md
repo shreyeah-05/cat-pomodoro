@@ -2,7 +2,7 @@
 
 A warm, cozy Pomodoro study timer in a single HTML file. It has a library background, a studying cat that reacts to the timer, an alarm, automatic breaks and daily study stats.
 
-Live page: https://claude.ai/artifact/1A81h9nAi97iyDAGg3VRXE
+Live page: https://shreyeah-05.github.io/cat-pomodoro/
 Source: `pomodoro.html` (everything is in this one file, no build step)
 
 ## How the timer works
