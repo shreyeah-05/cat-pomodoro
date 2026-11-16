@@ -81,8 +81,6 @@ Upload `index.html` to any static host (GitHub Pages, Netlify, Vercel) or open i
 
 ## Known limits
 
-- The background photo is small (736 px wide), so it looks soft on big screens.
-- The cat is a photo, so there is no sleeping pose for the long break. A third photo would fix that.
 - An alarm can't ring if the tab or browser is closed.
 
 ## Ideas for later
