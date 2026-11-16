@@ -62,7 +62,7 @@ There is no email or Google sign-up. That needs a real server, which this page d
 
 ## Customising
 
-All of this is in `pomodoro.html`.
+All of this is in `index.html`.
 
 - **Timer lengths:** edit `const CFG = {focus:25, short:5, long:30, sessions:6}` near the top of the script (minutes, and sessions per cycle).
 - **Cat lines and tips:** edit the `SAYS` (speech bubble) and `HINTS` (text under the timer) lists.
